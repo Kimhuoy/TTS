@@ -1,0 +1,16 @@
+khmer-dataset/
+outdir_train/
+pre-trining-model/
+*.ipynb
+*.pt
+*.pyc
+*.wav
+.ipynb_checkpoints
+outdir_train_male/
+plot/
+khmer-dataset-male
+outdir
+UNIVERSAL_V1
+pre-trining/
+filelists/
+
